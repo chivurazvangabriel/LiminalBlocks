@@ -89,6 +89,28 @@ target_link_libraries(${MAIN_EXECUTABLE_NAME} PRIVATE
         glu32
 )
 
+###############################################################################
+# Copy runtime directories
+
+add_custom_command(TARGET ${MAIN_EXECUTABLE_NAME} POST_BUILD
+        # Copy the Shaders folder
+        COMMAND ${CMAKE_COMMAND} -E copy_directory
+        "${PROJECT_SOURCE_DIR}/shaders"
+        "$<TARGET_FILE_DIR:${MAIN_EXECUTABLE_NAME}>/shaders"
+
+        COMMAND ${CMAKE_COMMAND} -E copy_directory
+        "${PROJECT_SOURCE_DIR}/resources"
+        "$<TARGET_FILE_DIR:${MAIN_EXECUTABLE_NAME}>/resources"
+
+        # Copy the DLLs folder (contents will be placed in the root of the .exe)
+        COMMAND ${CMAKE_COMMAND} -E copy_directory
+        "${PROJECT_SOURCE_DIR}/dlls"
+        "$<TARGET_FILE_DIR:${MAIN_EXECUTABLE_NAME}>"
+
+        COMMENT "Deploying DLLs and Shaders to the executable directory..."
+)
+
+
 target_include_directories(${MAIN_EXECUTABLE_NAME} PRIVATE "LiminalBlocks")
 target_include_directories(${MAIN_EXECUTABLE_NAME} PRIVATE "libs")
 
@@ -106,11 +128,7 @@ if(APPLE)
     install(FILES launcher.command DESTINATION ${DESTINATION_DIR})
 endif()
 
-###############################################################################
-# Copy runtime files
 
-copy_files(
-        FILES tastatura.txt
-        COPY_TO_DESTINATION
-        TARGET_NAME ${MAIN_EXECUTABLE_NAME}
-)
+
+
+
