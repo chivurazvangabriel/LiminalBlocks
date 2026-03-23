@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "air",
+    "block_id" : 0,
+    "visible" : false,
+    "collision" : false
+  },
+  {
+    "name" : "dirt_block",
+    "block_id" : 1,
+    "texture_atlas_id" : 0
+  },
+  {
+    "name" : "grass_block",
+    "block_id" : 2,
+    "texture_atlas_id" : 1
+  },
+  {
+    "name" : "stone_block",
+    "block_id" : 3,
+    "texture_atlas_id" : 2
+  },
+  {
+    "name" : "sand_block",
+    "block_id" : 4,
+    "texture_atlas_id" : 3
+  },
+  {
+    "name" : "smile_ore_block",
+    "block_id" : 5,
+    "texture_atlas_id" : 4
+  },
+  {
+    "name" : "frown_ore_block",
+    "block_id" : 6,
+    "texture_atlas_id" : 5
+  }
+]
