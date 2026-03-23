@@ -4,8 +4,7 @@ Proiect realizat de Chivu Razvan Gabriel - grupa 152
 
 # Ghid utilizare
 
-- A se deschide in IDE si a se builda
-- rulati .exe-ul generat
+- in folder-ul game exista un executabil pe nume oop.exe
 
 # Despre ce e vorba
 
