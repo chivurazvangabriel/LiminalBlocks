@@ -25,4 +25,4 @@ Controale:
 - Q - sparge bloc
 - E - pune bloc
 
-Bibliografie: gemini (folosit doar in cateva locuri pur teretice sau de sintaxa cand vine vorba de OpenGL; logica este gandita tot de mine)
+Bibliografie: gemini (folosit doar in cateva locuri pur teoretice sau de sintaxa cand vine vorba de OpenGL; logica este gandita tot de mine)
