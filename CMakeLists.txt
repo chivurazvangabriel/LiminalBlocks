@@ -110,6 +110,20 @@ add_custom_command(TARGET ${MAIN_EXECUTABLE_NAME} POST_BUILD
         COMMENT "Deploying DLLs and Shaders to the executable directory..."
 )
 
+if(WIN32 AND MINGW)
+    # This finds the 'bin' folder of your compiler
+    get_filename_component(MINGW_BIN_DIR "${CMAKE_CXX_COMPILER}" DIRECTORY)
+
+    add_custom_command(TARGET ${MAIN_EXECUTABLE_NAME} POST_BUILD
+            COMMAND ${CMAKE_COMMAND} -E copy
+            "${MINGW_BIN_DIR}/libgcc_s_seh-1.dll"
+            "${MINGW_BIN_DIR}/libstdc++-6.dll"
+            "${MINGW_BIN_DIR}/libwinpthread-1.dll"
+            "$<TARGET_FILE_DIR:${MAIN_EXECUTABLE_NAME}>"
+            COMMENT "Copying MinGW runtime DLLs for portability..."
+    )
+endif()
+
 
 target_include_directories(${MAIN_EXECUTABLE_NAME} PRIVATE "LiminalBlocks")
 target_include_directories(${MAIN_EXECUTABLE_NAME} PRIVATE "libs")
