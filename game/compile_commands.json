@@ -1,0 +1,140 @@
+[
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\main.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\main.cpp",
+  "file": "C:/Users/minec/Desktop/LB/main.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\gcc.exe -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\glad.c.obj -c C:\\Users\\minec\\Desktop\\LB\\glad.c",
+  "file": "C:/Users/minec/Desktop/LB/glad.c",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/glad.c.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\Camera.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\Camera.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/Camera.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/Camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\Object.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\Object.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/Object.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/Object.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Interfaces\\Private\\ITickable.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Interfaces\\Private\\ITickable.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Interfaces/Private/ITickable.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Interfaces/Private/ITickable.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Interfaces\\Private\\BaseInterface.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Interfaces\\Private\\BaseInterface.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Interfaces/Private/BaseInterface.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Interfaces/Private/BaseInterface.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\GameInstance.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\GameInstance.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/GameInstance.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/GameInstance.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\InputManager.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\InputManager.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/InputManager.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/InputManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\TickManager.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\TickManager.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/TickManager.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/TickManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\Block.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\Block.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/Block.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/Block.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\BlockRenderer.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\BlockRenderer.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/BlockRenderer.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/BlockRenderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\World.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\World.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/World.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/World.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\MulticastDelegate.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\MulticastDelegate.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/MulticastDelegate.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/MulticastDelegate.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\Player.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\Player.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/Player.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\PostProcessingManager.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\PostProcessingManager.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/PostProcessingManager.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/PostProcessingManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Interfaces\\Private\\IInputHandler.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Interfaces\\Private\\IInputHandler.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Interfaces/Private/IInputHandler.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Interfaces/Private/IInputHandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\BaseSubsystem.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\BaseSubsystem.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/BaseSubsystem.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/BaseSubsystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\SubsystemManager.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\SubsystemManager.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/SubsystemManager.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/SubsystemManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\WindowManager.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\WindowManager.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/WindowManager.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/WindowManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\BaseObjectComponent.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\BaseObjectComponent.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/BaseObjectComponent.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/BaseObjectComponent.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\ColliderComponent.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\ColliderComponent.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/ColliderComponent.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/ColliderComponent.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\Game.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\Game.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/Game.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/minec/Desktop/LB/cmake-build-debug",
+  "command": "C:\\Users\\minec\\Desktop\\_WAITI~1\\Sounds\\mingw64\\bin\\C__~1.EXE -IC:/Users/minec/Desktop/LB/LiminalBlocks -IC:/Users/minec/Desktop/LB/libs -isystem C:/Users/minec/Desktop/LB/libs/SFML-3.0.2/include -g -std=c++23 -fdiagnostics-color=always -Wall -Wextra -pedantic -o CMakeFiles\\oop.dir\\LiminalBlocks\\Core\\Private\\WorldGenerator.cpp.obj -c C:\\Users\\minec\\Desktop\\LB\\LiminalBlocks\\Core\\Private\\WorldGenerator.cpp",
+  "file": "C:/Users/minec/Desktop/LB/LiminalBlocks/Core/Private/WorldGenerator.cpp",
+  "output": "C:/Users/minec/Desktop/LB/cmake-build-debug/CMakeFiles/oop.dir/LiminalBlocks/Core/Private/WorldGenerator.cpp.obj"
+}
+]

@@ -1,0 +1,93 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/include",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/bin/gcc.exe",
+				"version" : "14.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/include/c++/14.2.0",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/include/c++/14.2.0/x86_64-w64-mingw32",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/include/c++/14.2.0/backward",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/include",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
+						"C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/bin/c++.exe",
+				"version" : "14.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/minec/Desktop/_Wait is that me/Sounds/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
